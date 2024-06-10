@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a4btnE7Y2BIDlSFObEM/5VCkVhze74PdBwXQv7b6IgzlfH8J3M1Rno6AWRRxTnYFRgDFhuiaw7lpzqOILTWpaw==",
+  "success": true,
+  "projectFilePath": "/Users/mariofarias/EasyPayChallenge/EasyPayChallenge.Domain/EasyPayChallenge.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/mariofarias/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

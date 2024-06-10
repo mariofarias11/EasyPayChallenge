@@ -1,0 +1,26 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1ad40b76_002De63d_002D4772_002Da6c9_002D15a31d764718/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateProductHandlerTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::A745F6E5-02AD-4950-B5AC-14645FC781D5::net6.0::EasyPayChallenge.Tests.CreateProductHandlerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3ce0d934_002Dab3e_002D438e_002Dab29_002Dd97f0db39dc1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CreateProductHandlerTests #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::1651C578-FAA2-44C2-99E8-82E3C35501D7::net6.0::EasyPayChallenge.UnitTests.CreateProductHandlerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9db7fc1d_002Dd918_002D48a7_002Dbb1b_002D09b1ef72ef1b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateProductHandlerTests #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::A745F6E5-02AD-4950-B5AC-14645FC781D5::net6.0::EasyPayChallenge.Tests.CreateProductHandlerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a558e451_002Dbee9_002D4d51_002D93f2_002Dc8b5a9c117c3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateProductHandlerTests #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::1651C578-FAA2-44C2-99E8-82E3C35501D7::net6.0::EasyPayChallenge.UnitTests.CreateProductHandlerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=df8ef2bd_002D8ce1_002D4b8a_002Dbfd1_002Dab55fc5f118a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CreateProductHandlerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::A745F6E5-02AD-4950-B5AC-14645FC781D5::net6.0::EasyPayChallenge.Tests.CreateProductHandlerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,293 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mariofarias/EasyPayChallenge/EasyPayChallenge.WebApi/EasyPayChallenge.WebApi.csproj": {}
+  },
+  "projects": {
+    "/Users/mariofarias/EasyPayChallenge/EasyPayChallenge.Application/EasyPayChallenge.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mariofarias/EasyPayChallenge/EasyPayChallenge.Application/EasyPayChallenge.Application.csproj",
+        "projectName": "EasyPayChallenge.Application",
+        "projectPath": "/Users/mariofarias/EasyPayChallenge/EasyPayChallenge.Application/EasyPayChallenge.Application.csproj",
+        "packagesPath": "/Users/mariofarias/.nuget/packages/",
+        "outputPath": "/Users/mariofarias/EasyPayChallenge/EasyPayChallenge.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mariofarias/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/mariofarias/EasyPayChallenge/EasyPayChallenge.Domain/EasyPayChallenge.Domain.csproj": {
+                "projectPath": "/Users/mariofarias/EasyPayChallenge/EasyPayChallenge.Domain/EasyPayChallenge.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.6.80, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mariofarias/EasyPayChallenge/EasyPayChallenge.Domain/EasyPayChallenge.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mariofarias/EasyPayChallenge/EasyPayChallenge.Domain/EasyPayChallenge.Domain.csproj",
+        "projectName": "EasyPayChallenge.Domain",
+        "projectPath": "/Users/mariofarias/EasyPayChallenge/EasyPayChallenge.Domain/EasyPayChallenge.Domain.csproj",
+        "packagesPath": "/Users/mariofarias/.nuget/packages/",
+        "outputPath": "/Users/mariofarias/EasyPayChallenge/EasyPayChallenge.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mariofarias/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR.Contracts": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mariofarias/EasyPayChallenge/EasyPayChallenge.Infrastructure/EasyPayChallenge.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mariofarias/EasyPayChallenge/EasyPayChallenge.Infrastructure/EasyPayChallenge.Infrastructure.csproj",
+        "projectName": "EasyPayChallenge.Infrastructure",
+        "projectPath": "/Users/mariofarias/EasyPayChallenge/EasyPayChallenge.Infrastructure/EasyPayChallenge.Infrastructure.csproj",
+        "packagesPath": "/Users/mariofarias/.nuget/packages/",
+        "outputPath": "/Users/mariofarias/EasyPayChallenge/EasyPayChallenge.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mariofarias/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/mariofarias/EasyPayChallenge/EasyPayChallenge.Application/EasyPayChallenge.Application.csproj": {
+                "projectPath": "/Users/mariofarias/EasyPayChallenge/EasyPayChallenge.Application/EasyPayChallenge.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.0-preview.4.24266.19, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mariofarias/EasyPayChallenge/EasyPayChallenge.WebApi/EasyPayChallenge.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mariofarias/EasyPayChallenge/EasyPayChallenge.WebApi/EasyPayChallenge.WebApi.csproj",
+        "projectName": "EasyPayChallenge.WebApi",
+        "projectPath": "/Users/mariofarias/EasyPayChallenge/EasyPayChallenge.WebApi/EasyPayChallenge.WebApi.csproj",
+        "packagesPath": "/Users/mariofarias/.nuget/packages/",
+        "outputPath": "/Users/mariofarias/EasyPayChallenge/EasyPayChallenge.WebApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mariofarias/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/mariofarias/EasyPayChallenge/EasyPayChallenge.Application/EasyPayChallenge.Application.csproj": {
+                "projectPath": "/Users/mariofarias/EasyPayChallenge/EasyPayChallenge.Application/EasyPayChallenge.Application.csproj"
+              },
+              "/Users/mariofarias/EasyPayChallenge/EasyPayChallenge.Domain/EasyPayChallenge.Domain.csproj": {
+                "projectPath": "/Users/mariofarias/EasyPayChallenge/EasyPayChallenge.Domain/EasyPayChallenge.Domain.csproj"
+              },
+              "/Users/mariofarias/EasyPayChallenge/EasyPayChallenge.Infrastructure/EasyPayChallenge.Infrastructure.csproj": {
+                "projectPath": "/Users/mariofarias/EasyPayChallenge/EasyPayChallenge.Infrastructure/EasyPayChallenge.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AspNetCoreRateLimit": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "AspNetCoreRateLimit.Redis": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

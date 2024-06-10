@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "2zoa/gy+30JiT8kCh8Y6jLgVe7TfcYdQyPyoypE13YYKWbjd+rzhyV1KIE9KFnboUBuRvSl8shGiEkleYDgCRQ==",
+  "success": true,
+  "projectFilePath": "/Users/mariofarias/EasyPayChallenge/EasyPayChallenge.Application/EasyPayChallenge.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/mariofarias/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/mariofarias/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/mariofarias/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/mariofarias/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.3/microsoft.extensions.logging.abstractions.6.0.3.nupkg.sha512",
+    "/Users/mariofarias/.nuget/packages/pipelines.sockets.unofficial/2.2.2/pipelines.sockets.unofficial.2.2.2.nupkg.sha512",
+    "/Users/mariofarias/.nuget/packages/stackexchange.redis/2.6.80/stackexchange.redis.2.6.80.nupkg.sha512",
+    "/Users/mariofarias/.nuget/packages/system.io.pipelines/5.0.1/system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

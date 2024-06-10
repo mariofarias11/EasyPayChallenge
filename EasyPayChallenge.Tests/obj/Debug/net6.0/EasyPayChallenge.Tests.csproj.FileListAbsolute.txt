@@ -1,0 +1,6 @@
+/Users/mariofarias/Git/EasyPayChallenge/EasyPayChallenge.Tests/bin/Debug/net6.0/CoverletSourceRootsMapping_EasyPayChallenge.Tests
+/Users/mariofarias/Git/EasyPayChallenge/EasyPayChallenge.Tests/obj/Debug/net6.0/EasyPayChallenge.Tests.csproj.AssemblyReference.cache
+/Users/mariofarias/Git/EasyPayChallenge/EasyPayChallenge.Tests/obj/Debug/net6.0/EasyPayChallenge.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariofarias/Git/EasyPayChallenge/EasyPayChallenge.Tests/obj/Debug/net6.0/EasyPayChallenge.Tests.AssemblyInfoInputs.cache
+/Users/mariofarias/Git/EasyPayChallenge/EasyPayChallenge.Tests/obj/Debug/net6.0/EasyPayChallenge.Tests.AssemblyInfo.cs
+/Users/mariofarias/Git/EasyPayChallenge/EasyPayChallenge.Tests/obj/Debug/net6.0/EasyPayChallenge.Tests.csproj.CoreCompileInputs.cache

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyPayChallenge.WebApi", "EasyPayChallenge.WebApi\EasyPayChallenge.WebApi.csproj", "{D7BC09D8-EAF8-4620-A6A6-A9A02B57F4E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyPayChallenge.Domain", "EasyPayChallenge.Domain\EasyPayChallenge.Domain.csproj", "{7FEB63DB-E1D6-49C2-87BB-9441441C2576}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyPayChallenge.Application", "EasyPayChallenge.Application\EasyPayChallenge.Application.csproj", "{5308E5C1-1B54-416E-B67C-FF8F1F16CD3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyPayChallenge.Infrastructure", "EasyPayChallenge.Infrastructure\EasyPayChallenge.Infrastructure.csproj", "{D23560CE-814F-401B-A946-148D4E7AE712}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyPayChallenge.UnitTests", "EasyPayChallenge.UnitTests\EasyPayChallenge.UnitTests.csproj", "{1651C578-FAA2-44C2-99E8-82E3C35501D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7BC09D8-EAF8-4620-A6A6-A9A02B57F4E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7BC09D8-EAF8-4620-A6A6-A9A02B57F4E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7BC09D8-EAF8-4620-A6A6-A9A02B57F4E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7BC09D8-EAF8-4620-A6A6-A9A02B57F4E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FEB63DB-E1D6-49C2-87BB-9441441C2576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FEB63DB-E1D6-49C2-87BB-9441441C2576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FEB63DB-E1D6-49C2-87BB-9441441C2576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FEB63DB-E1D6-49C2-87BB-9441441C2576}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5308E5C1-1B54-416E-B67C-FF8F1F16CD3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5308E5C1-1B54-416E-B67C-FF8F1F16CD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5308E5C1-1B54-416E-B67C-FF8F1F16CD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5308E5C1-1B54-416E-B67C-FF8F1F16CD3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D23560CE-814F-401B-A946-148D4E7AE712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23560CE-814F-401B-A946-148D4E7AE712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23560CE-814F-401B-A946-148D4E7AE712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23560CE-814F-401B-A946-148D4E7AE712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1651C578-FAA2-44C2-99E8-82E3C35501D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1651C578-FAA2-44C2-99E8-82E3C35501D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1651C578-FAA2-44C2-99E8-82E3C35501D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1651C578-FAA2-44C2-99E8-82E3C35501D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17FDC8A6-AB0E-44C6-81CE-415ED76FBC0E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:/Git/EasyPayChallenge/EasyPayChallenge.Infrastructure/bin/Debug/net6.0/EasyPayChallenge.Infrastructure.deps.json
+C:/Git/EasyPayChallenge/EasyPayChallenge.Infrastructure/bin/Debug/net6.0/EasyPayChallenge.Infrastructure.dll
+C:/Git/EasyPayChallenge/EasyPayChallenge.Infrastructure/bin/Debug/net6.0/EasyPayChallenge.Infrastructure.pdb
+C:/Git/EasyPayChallenge/EasyPayChallenge.Infrastructure/bin/Debug/net6.0/EasyPayChallenge.Application.dll
+C:/Git/EasyPayChallenge/EasyPayChallenge.Infrastructure/bin/Debug/net6.0/EasyPayChallenge.Domain.dll
+C:/Git/EasyPayChallenge/EasyPayChallenge.Infrastructure/bin/Debug/net6.0/EasyPayChallenge.Application.pdb
+C:/Git/EasyPayChallenge/EasyPayChallenge.Infrastructure/bin/Debug/net6.0/EasyPayChallenge.Domain.pdb
+C:/Git/EasyPayChallenge/EasyPayChallenge.Infrastructure/obj/Debug/net6.0/EasyPayChallenge.Infrastructure.csproj.AssemblyReference.cache
+C:/Git/EasyPayChallenge/EasyPayChallenge.Infrastructure/obj/Debug/net6.0/EasyPayChallenge.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:/Git/EasyPayChallenge/EasyPayChallenge.Infrastructure/obj/Debug/net6.0/EasyPayChallenge.Infrastructure.AssemblyInfoInputs.cache
+C:/Git/EasyPayChallenge/EasyPayChallenge.Infrastructure/obj/Debug/net6.0/EasyPayChallenge.Infrastructure.AssemblyInfo.cs
+C:/Git/EasyPayChallenge/EasyPayChallenge.Infrastructure/obj/Debug/net6.0/EasyPayChallenge.Infrastructure.csproj.CoreCompileInputs.cache
+C:/Git/EasyPayChallenge/EasyPayChallenge.Infrastructure/obj/Debug/net6.0/EasyPayC.4A3BB8A9.Up2Date
+C:/Git/EasyPayChallenge/EasyPayChallenge.Infrastructure/obj/Debug/net6.0/EasyPayChallenge.Infrastructure.dll
+C:/Git/EasyPayChallenge/EasyPayChallenge.Infrastructure/obj/Debug/net6.0/refint/EasyPayChallenge.Infrastructure.dll
+C:/Git/EasyPayChallenge/EasyPayChallenge.Infrastructure/obj/Debug/net6.0/EasyPayChallenge.Infrastructure.pdb
+C:/Git/EasyPayChallenge/EasyPayChallenge.Infrastructure/obj/Debug/net6.0/ref/EasyPayChallenge.Infrastructure.dll
